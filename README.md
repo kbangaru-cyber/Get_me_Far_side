@@ -1,4 +1,4 @@
-# Get me Far side: Novel View Synthesis with a from-scratch DiT
+# Get me Far side: Novel View Synthesis
 
 Give the model one image of an object and a relative camera. It generates the object from that new view.
 
