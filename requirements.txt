@@ -1,0 +1,11 @@
+torch
+diffusers
+transformers
+safetensors
+huggingface_hub
+requests
+tqdm
+matplotlib
+numpy<2.3
+Pillow
+kornia
